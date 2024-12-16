@@ -1,0 +1,14 @@
+/home/orangepi/LN/CS/1CHAR/Ploymorphism/bin/Debug/net8.0/Ploymorphism
+/home/orangepi/LN/CS/1CHAR/Ploymorphism/bin/Debug/net8.0/Ploymorphism.deps.json
+/home/orangepi/LN/CS/1CHAR/Ploymorphism/bin/Debug/net8.0/Ploymorphism.runtimeconfig.json
+/home/orangepi/LN/CS/1CHAR/Ploymorphism/bin/Debug/net8.0/Ploymorphism.dll
+/home/orangepi/LN/CS/1CHAR/Ploymorphism/bin/Debug/net8.0/Ploymorphism.pdb
+/home/orangepi/LN/CS/1CHAR/Ploymorphism/obj/Debug/net8.0/Ploymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/home/orangepi/LN/CS/1CHAR/Ploymorphism/obj/Debug/net8.0/Ploymorphism.AssemblyInfoInputs.cache
+/home/orangepi/LN/CS/1CHAR/Ploymorphism/obj/Debug/net8.0/Ploymorphism.AssemblyInfo.cs
+/home/orangepi/LN/CS/1CHAR/Ploymorphism/obj/Debug/net8.0/Ploymorphism.csproj.CoreCompileInputs.cache
+/home/orangepi/LN/CS/1CHAR/Ploymorphism/obj/Debug/net8.0/Ploymorphism.dll
+/home/orangepi/LN/CS/1CHAR/Ploymorphism/obj/Debug/net8.0/refint/Ploymorphism.dll
+/home/orangepi/LN/CS/1CHAR/Ploymorphism/obj/Debug/net8.0/Ploymorphism.pdb
+/home/orangepi/LN/CS/1CHAR/Ploymorphism/obj/Debug/net8.0/Ploymorphism.genruntimeconfig.cache
+/home/orangepi/LN/CS/1CHAR/Ploymorphism/obj/Debug/net8.0/ref/Ploymorphism.dll

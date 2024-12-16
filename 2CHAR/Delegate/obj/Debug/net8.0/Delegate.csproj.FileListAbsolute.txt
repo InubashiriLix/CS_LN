@@ -1,0 +1,14 @@
+/home/orangepi/LN/CS/2CHAR/Delegate/bin/Debug/net8.0/Delegate
+/home/orangepi/LN/CS/2CHAR/Delegate/bin/Debug/net8.0/Delegate.deps.json
+/home/orangepi/LN/CS/2CHAR/Delegate/bin/Debug/net8.0/Delegate.runtimeconfig.json
+/home/orangepi/LN/CS/2CHAR/Delegate/bin/Debug/net8.0/Delegate.dll
+/home/orangepi/LN/CS/2CHAR/Delegate/bin/Debug/net8.0/Delegate.pdb
+/home/orangepi/LN/CS/2CHAR/Delegate/obj/Debug/net8.0/Delegate.GeneratedMSBuildEditorConfig.editorconfig
+/home/orangepi/LN/CS/2CHAR/Delegate/obj/Debug/net8.0/Delegate.AssemblyInfoInputs.cache
+/home/orangepi/LN/CS/2CHAR/Delegate/obj/Debug/net8.0/Delegate.AssemblyInfo.cs
+/home/orangepi/LN/CS/2CHAR/Delegate/obj/Debug/net8.0/Delegate.csproj.CoreCompileInputs.cache
+/home/orangepi/LN/CS/2CHAR/Delegate/obj/Debug/net8.0/Delegate.dll
+/home/orangepi/LN/CS/2CHAR/Delegate/obj/Debug/net8.0/refint/Delegate.dll
+/home/orangepi/LN/CS/2CHAR/Delegate/obj/Debug/net8.0/Delegate.pdb
+/home/orangepi/LN/CS/2CHAR/Delegate/obj/Debug/net8.0/Delegate.genruntimeconfig.cache
+/home/orangepi/LN/CS/2CHAR/Delegate/obj/Debug/net8.0/ref/Delegate.dll

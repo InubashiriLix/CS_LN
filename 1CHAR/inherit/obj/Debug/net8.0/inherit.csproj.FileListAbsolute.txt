@@ -1,0 +1,14 @@
+/home/orangepi/LN/CS/1CHAR/inherit/bin/Debug/net8.0/inherit
+/home/orangepi/LN/CS/1CHAR/inherit/bin/Debug/net8.0/inherit.deps.json
+/home/orangepi/LN/CS/1CHAR/inherit/bin/Debug/net8.0/inherit.runtimeconfig.json
+/home/orangepi/LN/CS/1CHAR/inherit/bin/Debug/net8.0/inherit.dll
+/home/orangepi/LN/CS/1CHAR/inherit/bin/Debug/net8.0/inherit.pdb
+/home/orangepi/LN/CS/1CHAR/inherit/obj/Debug/net8.0/inherit.GeneratedMSBuildEditorConfig.editorconfig
+/home/orangepi/LN/CS/1CHAR/inherit/obj/Debug/net8.0/inherit.AssemblyInfoInputs.cache
+/home/orangepi/LN/CS/1CHAR/inherit/obj/Debug/net8.0/inherit.AssemblyInfo.cs
+/home/orangepi/LN/CS/1CHAR/inherit/obj/Debug/net8.0/inherit.csproj.CoreCompileInputs.cache
+/home/orangepi/LN/CS/1CHAR/inherit/obj/Debug/net8.0/inherit.dll
+/home/orangepi/LN/CS/1CHAR/inherit/obj/Debug/net8.0/refint/inherit.dll
+/home/orangepi/LN/CS/1CHAR/inherit/obj/Debug/net8.0/inherit.pdb
+/home/orangepi/LN/CS/1CHAR/inherit/obj/Debug/net8.0/inherit.genruntimeconfig.cache
+/home/orangepi/LN/CS/1CHAR/inherit/obj/Debug/net8.0/ref/inherit.dll

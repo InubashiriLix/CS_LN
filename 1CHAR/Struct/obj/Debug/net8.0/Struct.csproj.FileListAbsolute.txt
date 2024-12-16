@@ -1,0 +1,14 @@
+/home/orangepi/LN/CS/1CHAR/Struct/bin/Debug/net8.0/Struct
+/home/orangepi/LN/CS/1CHAR/Struct/bin/Debug/net8.0/Struct.deps.json
+/home/orangepi/LN/CS/1CHAR/Struct/bin/Debug/net8.0/Struct.runtimeconfig.json
+/home/orangepi/LN/CS/1CHAR/Struct/bin/Debug/net8.0/Struct.dll
+/home/orangepi/LN/CS/1CHAR/Struct/bin/Debug/net8.0/Struct.pdb
+/home/orangepi/LN/CS/1CHAR/Struct/obj/Debug/net8.0/Struct.GeneratedMSBuildEditorConfig.editorconfig
+/home/orangepi/LN/CS/1CHAR/Struct/obj/Debug/net8.0/Struct.AssemblyInfoInputs.cache
+/home/orangepi/LN/CS/1CHAR/Struct/obj/Debug/net8.0/Struct.AssemblyInfo.cs
+/home/orangepi/LN/CS/1CHAR/Struct/obj/Debug/net8.0/Struct.csproj.CoreCompileInputs.cache
+/home/orangepi/LN/CS/1CHAR/Struct/obj/Debug/net8.0/Struct.dll
+/home/orangepi/LN/CS/1CHAR/Struct/obj/Debug/net8.0/refint/Struct.dll
+/home/orangepi/LN/CS/1CHAR/Struct/obj/Debug/net8.0/Struct.pdb
+/home/orangepi/LN/CS/1CHAR/Struct/obj/Debug/net8.0/Struct.genruntimeconfig.cache
+/home/orangepi/LN/CS/1CHAR/Struct/obj/Debug/net8.0/ref/Struct.dll

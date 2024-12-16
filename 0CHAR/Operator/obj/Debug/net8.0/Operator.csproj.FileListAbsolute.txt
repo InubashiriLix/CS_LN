@@ -1,0 +1,14 @@
+/home/orangepi/LN/CS/0CHAR/Operator/bin/Debug/net8.0/Operator
+/home/orangepi/LN/CS/0CHAR/Operator/bin/Debug/net8.0/Operator.deps.json
+/home/orangepi/LN/CS/0CHAR/Operator/bin/Debug/net8.0/Operator.runtimeconfig.json
+/home/orangepi/LN/CS/0CHAR/Operator/bin/Debug/net8.0/Operator.dll
+/home/orangepi/LN/CS/0CHAR/Operator/bin/Debug/net8.0/Operator.pdb
+/home/orangepi/LN/CS/0CHAR/Operator/obj/Debug/net8.0/Operator.GeneratedMSBuildEditorConfig.editorconfig
+/home/orangepi/LN/CS/0CHAR/Operator/obj/Debug/net8.0/Operator.AssemblyInfoInputs.cache
+/home/orangepi/LN/CS/0CHAR/Operator/obj/Debug/net8.0/Operator.AssemblyInfo.cs
+/home/orangepi/LN/CS/0CHAR/Operator/obj/Debug/net8.0/Operator.csproj.CoreCompileInputs.cache
+/home/orangepi/LN/CS/0CHAR/Operator/obj/Debug/net8.0/Operator.dll
+/home/orangepi/LN/CS/0CHAR/Operator/obj/Debug/net8.0/refint/Operator.dll
+/home/orangepi/LN/CS/0CHAR/Operator/obj/Debug/net8.0/Operator.pdb
+/home/orangepi/LN/CS/0CHAR/Operator/obj/Debug/net8.0/Operator.genruntimeconfig.cache
+/home/orangepi/LN/CS/0CHAR/Operator/obj/Debug/net8.0/ref/Operator.dll

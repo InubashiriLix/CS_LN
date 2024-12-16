@@ -1,0 +1,14 @@
+/home/orangepi/LN/CS/2CHAR/Reflection/bin/Debug/net8.0/Reflection
+/home/orangepi/LN/CS/2CHAR/Reflection/bin/Debug/net8.0/Reflection.deps.json
+/home/orangepi/LN/CS/2CHAR/Reflection/bin/Debug/net8.0/Reflection.runtimeconfig.json
+/home/orangepi/LN/CS/2CHAR/Reflection/bin/Debug/net8.0/Reflection.dll
+/home/orangepi/LN/CS/2CHAR/Reflection/bin/Debug/net8.0/Reflection.pdb
+/home/orangepi/LN/CS/2CHAR/Reflection/obj/Debug/net8.0/Reflection.GeneratedMSBuildEditorConfig.editorconfig
+/home/orangepi/LN/CS/2CHAR/Reflection/obj/Debug/net8.0/Reflection.AssemblyInfoInputs.cache
+/home/orangepi/LN/CS/2CHAR/Reflection/obj/Debug/net8.0/Reflection.AssemblyInfo.cs
+/home/orangepi/LN/CS/2CHAR/Reflection/obj/Debug/net8.0/Reflection.csproj.CoreCompileInputs.cache
+/home/orangepi/LN/CS/2CHAR/Reflection/obj/Debug/net8.0/Reflection.dll
+/home/orangepi/LN/CS/2CHAR/Reflection/obj/Debug/net8.0/refint/Reflection.dll
+/home/orangepi/LN/CS/2CHAR/Reflection/obj/Debug/net8.0/Reflection.pdb
+/home/orangepi/LN/CS/2CHAR/Reflection/obj/Debug/net8.0/Reflection.genruntimeconfig.cache
+/home/orangepi/LN/CS/2CHAR/Reflection/obj/Debug/net8.0/ref/Reflection.dll

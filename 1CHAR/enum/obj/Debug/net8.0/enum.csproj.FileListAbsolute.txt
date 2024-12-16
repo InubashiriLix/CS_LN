@@ -1,0 +1,14 @@
+/home/orangepi/LN/CS/1CHAR/enum/bin/Debug/net8.0/enum
+/home/orangepi/LN/CS/1CHAR/enum/bin/Debug/net8.0/enum.deps.json
+/home/orangepi/LN/CS/1CHAR/enum/bin/Debug/net8.0/enum.runtimeconfig.json
+/home/orangepi/LN/CS/1CHAR/enum/bin/Debug/net8.0/enum.dll
+/home/orangepi/LN/CS/1CHAR/enum/bin/Debug/net8.0/enum.pdb
+/home/orangepi/LN/CS/1CHAR/enum/obj/Debug/net8.0/enum.GeneratedMSBuildEditorConfig.editorconfig
+/home/orangepi/LN/CS/1CHAR/enum/obj/Debug/net8.0/enum.AssemblyInfoInputs.cache
+/home/orangepi/LN/CS/1CHAR/enum/obj/Debug/net8.0/enum.AssemblyInfo.cs
+/home/orangepi/LN/CS/1CHAR/enum/obj/Debug/net8.0/enum.csproj.CoreCompileInputs.cache
+/home/orangepi/LN/CS/1CHAR/enum/obj/Debug/net8.0/enum.dll
+/home/orangepi/LN/CS/1CHAR/enum/obj/Debug/net8.0/refint/enum.dll
+/home/orangepi/LN/CS/1CHAR/enum/obj/Debug/net8.0/enum.pdb
+/home/orangepi/LN/CS/1CHAR/enum/obj/Debug/net8.0/enum.genruntimeconfig.cache
+/home/orangepi/LN/CS/1CHAR/enum/obj/Debug/net8.0/ref/enum.dll

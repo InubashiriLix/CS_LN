@@ -1,0 +1,14 @@
+/home/orangepi/LN/CS/0CHAR/Variables/bin/Debug/net8.0/Variables
+/home/orangepi/LN/CS/0CHAR/Variables/bin/Debug/net8.0/Variables.deps.json
+/home/orangepi/LN/CS/0CHAR/Variables/bin/Debug/net8.0/Variables.runtimeconfig.json
+/home/orangepi/LN/CS/0CHAR/Variables/bin/Debug/net8.0/Variables.dll
+/home/orangepi/LN/CS/0CHAR/Variables/bin/Debug/net8.0/Variables.pdb
+/home/orangepi/LN/CS/0CHAR/Variables/obj/Debug/net8.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/home/orangepi/LN/CS/0CHAR/Variables/obj/Debug/net8.0/Variables.AssemblyInfoInputs.cache
+/home/orangepi/LN/CS/0CHAR/Variables/obj/Debug/net8.0/Variables.AssemblyInfo.cs
+/home/orangepi/LN/CS/0CHAR/Variables/obj/Debug/net8.0/Variables.csproj.CoreCompileInputs.cache
+/home/orangepi/LN/CS/0CHAR/Variables/obj/Debug/net8.0/Variables.dll
+/home/orangepi/LN/CS/0CHAR/Variables/obj/Debug/net8.0/refint/Variables.dll
+/home/orangepi/LN/CS/0CHAR/Variables/obj/Debug/net8.0/Variables.pdb
+/home/orangepi/LN/CS/0CHAR/Variables/obj/Debug/net8.0/Variables.genruntimeconfig.cache
+/home/orangepi/LN/CS/0CHAR/Variables/obj/Debug/net8.0/ref/Variables.dll

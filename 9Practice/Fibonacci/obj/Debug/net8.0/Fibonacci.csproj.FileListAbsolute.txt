@@ -1,0 +1,14 @@
+/home/orangepi/LN/CS/9Practice/Fibonacci/bin/Debug/net8.0/Fibonacci
+/home/orangepi/LN/CS/9Practice/Fibonacci/bin/Debug/net8.0/Fibonacci.deps.json
+/home/orangepi/LN/CS/9Practice/Fibonacci/bin/Debug/net8.0/Fibonacci.runtimeconfig.json
+/home/orangepi/LN/CS/9Practice/Fibonacci/bin/Debug/net8.0/Fibonacci.dll
+/home/orangepi/LN/CS/9Practice/Fibonacci/bin/Debug/net8.0/Fibonacci.pdb
+/home/orangepi/LN/CS/9Practice/Fibonacci/obj/Debug/net8.0/Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/home/orangepi/LN/CS/9Practice/Fibonacci/obj/Debug/net8.0/Fibonacci.AssemblyInfoInputs.cache
+/home/orangepi/LN/CS/9Practice/Fibonacci/obj/Debug/net8.0/Fibonacci.AssemblyInfo.cs
+/home/orangepi/LN/CS/9Practice/Fibonacci/obj/Debug/net8.0/Fibonacci.csproj.CoreCompileInputs.cache
+/home/orangepi/LN/CS/9Practice/Fibonacci/obj/Debug/net8.0/Fibonacci.dll
+/home/orangepi/LN/CS/9Practice/Fibonacci/obj/Debug/net8.0/refint/Fibonacci.dll
+/home/orangepi/LN/CS/9Practice/Fibonacci/obj/Debug/net8.0/Fibonacci.pdb
+/home/orangepi/LN/CS/9Practice/Fibonacci/obj/Debug/net8.0/Fibonacci.genruntimeconfig.cache
+/home/orangepi/LN/CS/9Practice/Fibonacci/obj/Debug/net8.0/ref/Fibonacci.dll

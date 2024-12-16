@@ -1,0 +1,14 @@
+/home/orangepi/LN/CS/0CHAR/TopLevelStatements/bin/Debug/net8.0/TopLevelStatements
+/home/orangepi/LN/CS/0CHAR/TopLevelStatements/bin/Debug/net8.0/TopLevelStatements.deps.json
+/home/orangepi/LN/CS/0CHAR/TopLevelStatements/bin/Debug/net8.0/TopLevelStatements.runtimeconfig.json
+/home/orangepi/LN/CS/0CHAR/TopLevelStatements/bin/Debug/net8.0/TopLevelStatements.dll
+/home/orangepi/LN/CS/0CHAR/TopLevelStatements/bin/Debug/net8.0/TopLevelStatements.pdb
+/home/orangepi/LN/CS/0CHAR/TopLevelStatements/obj/Debug/net8.0/TopLevelStatements.GeneratedMSBuildEditorConfig.editorconfig
+/home/orangepi/LN/CS/0CHAR/TopLevelStatements/obj/Debug/net8.0/TopLevelStatements.AssemblyInfoInputs.cache
+/home/orangepi/LN/CS/0CHAR/TopLevelStatements/obj/Debug/net8.0/TopLevelStatements.AssemblyInfo.cs
+/home/orangepi/LN/CS/0CHAR/TopLevelStatements/obj/Debug/net8.0/TopLevelStatements.csproj.CoreCompileInputs.cache
+/home/orangepi/LN/CS/0CHAR/TopLevelStatements/obj/Debug/net8.0/TopLevelStatements.dll
+/home/orangepi/LN/CS/0CHAR/TopLevelStatements/obj/Debug/net8.0/refint/TopLevelStatements.dll
+/home/orangepi/LN/CS/0CHAR/TopLevelStatements/obj/Debug/net8.0/TopLevelStatements.pdb
+/home/orangepi/LN/CS/0CHAR/TopLevelStatements/obj/Debug/net8.0/TopLevelStatements.genruntimeconfig.cache
+/home/orangepi/LN/CS/0CHAR/TopLevelStatements/obj/Debug/net8.0/ref/TopLevelStatements.dll

@@ -1,0 +1,14 @@
+/home/orangepi/LN/CS/9Practice/FactorialRecursive/bin/Debug/net8.0/FactorialRecursive
+/home/orangepi/LN/CS/9Practice/FactorialRecursive/bin/Debug/net8.0/FactorialRecursive.deps.json
+/home/orangepi/LN/CS/9Practice/FactorialRecursive/bin/Debug/net8.0/FactorialRecursive.runtimeconfig.json
+/home/orangepi/LN/CS/9Practice/FactorialRecursive/bin/Debug/net8.0/FactorialRecursive.dll
+/home/orangepi/LN/CS/9Practice/FactorialRecursive/bin/Debug/net8.0/FactorialRecursive.pdb
+/home/orangepi/LN/CS/9Practice/FactorialRecursive/obj/Debug/net8.0/FactorialRecursive.GeneratedMSBuildEditorConfig.editorconfig
+/home/orangepi/LN/CS/9Practice/FactorialRecursive/obj/Debug/net8.0/FactorialRecursive.AssemblyInfoInputs.cache
+/home/orangepi/LN/CS/9Practice/FactorialRecursive/obj/Debug/net8.0/FactorialRecursive.AssemblyInfo.cs
+/home/orangepi/LN/CS/9Practice/FactorialRecursive/obj/Debug/net8.0/FactorialRecursive.csproj.CoreCompileInputs.cache
+/home/orangepi/LN/CS/9Practice/FactorialRecursive/obj/Debug/net8.0/FactorialRecursive.dll
+/home/orangepi/LN/CS/9Practice/FactorialRecursive/obj/Debug/net8.0/refint/FactorialRecursive.dll
+/home/orangepi/LN/CS/9Practice/FactorialRecursive/obj/Debug/net8.0/FactorialRecursive.pdb
+/home/orangepi/LN/CS/9Practice/FactorialRecursive/obj/Debug/net8.0/FactorialRecursive.genruntimeconfig.cache
+/home/orangepi/LN/CS/9Practice/FactorialRecursive/obj/Debug/net8.0/ref/FactorialRecursive.dll

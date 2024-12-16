@@ -1,0 +1,14 @@
+/home/orangepi/LN/CS/2CHAR/Indexer/bin/Debug/net8.0/Indexer
+/home/orangepi/LN/CS/2CHAR/Indexer/bin/Debug/net8.0/Indexer.deps.json
+/home/orangepi/LN/CS/2CHAR/Indexer/bin/Debug/net8.0/Indexer.runtimeconfig.json
+/home/orangepi/LN/CS/2CHAR/Indexer/bin/Debug/net8.0/Indexer.dll
+/home/orangepi/LN/CS/2CHAR/Indexer/bin/Debug/net8.0/Indexer.pdb
+/home/orangepi/LN/CS/2CHAR/Indexer/obj/Debug/net8.0/Indexer.GeneratedMSBuildEditorConfig.editorconfig
+/home/orangepi/LN/CS/2CHAR/Indexer/obj/Debug/net8.0/Indexer.AssemblyInfoInputs.cache
+/home/orangepi/LN/CS/2CHAR/Indexer/obj/Debug/net8.0/Indexer.AssemblyInfo.cs
+/home/orangepi/LN/CS/2CHAR/Indexer/obj/Debug/net8.0/Indexer.csproj.CoreCompileInputs.cache
+/home/orangepi/LN/CS/2CHAR/Indexer/obj/Debug/net8.0/Indexer.dll
+/home/orangepi/LN/CS/2CHAR/Indexer/obj/Debug/net8.0/refint/Indexer.dll
+/home/orangepi/LN/CS/2CHAR/Indexer/obj/Debug/net8.0/Indexer.pdb
+/home/orangepi/LN/CS/2CHAR/Indexer/obj/Debug/net8.0/Indexer.genruntimeconfig.cache
+/home/orangepi/LN/CS/2CHAR/Indexer/obj/Debug/net8.0/ref/Indexer.dll

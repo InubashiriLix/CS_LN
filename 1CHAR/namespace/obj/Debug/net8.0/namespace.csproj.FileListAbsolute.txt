@@ -1,0 +1,14 @@
+/home/orangepi/LN/CS/1CHAR/namespace/bin/Debug/net8.0/namespace
+/home/orangepi/LN/CS/1CHAR/namespace/bin/Debug/net8.0/namespace.deps.json
+/home/orangepi/LN/CS/1CHAR/namespace/bin/Debug/net8.0/namespace.runtimeconfig.json
+/home/orangepi/LN/CS/1CHAR/namespace/bin/Debug/net8.0/namespace.dll
+/home/orangepi/LN/CS/1CHAR/namespace/bin/Debug/net8.0/namespace.pdb
+/home/orangepi/LN/CS/1CHAR/namespace/obj/Debug/net8.0/namespace.GeneratedMSBuildEditorConfig.editorconfig
+/home/orangepi/LN/CS/1CHAR/namespace/obj/Debug/net8.0/namespace.AssemblyInfoInputs.cache
+/home/orangepi/LN/CS/1CHAR/namespace/obj/Debug/net8.0/namespace.AssemblyInfo.cs
+/home/orangepi/LN/CS/1CHAR/namespace/obj/Debug/net8.0/namespace.csproj.CoreCompileInputs.cache
+/home/orangepi/LN/CS/1CHAR/namespace/obj/Debug/net8.0/namespace.dll
+/home/orangepi/LN/CS/1CHAR/namespace/obj/Debug/net8.0/refint/namespace.dll
+/home/orangepi/LN/CS/1CHAR/namespace/obj/Debug/net8.0/namespace.pdb
+/home/orangepi/LN/CS/1CHAR/namespace/obj/Debug/net8.0/namespace.genruntimeconfig.cache
+/home/orangepi/LN/CS/1CHAR/namespace/obj/Debug/net8.0/ref/namespace.dll

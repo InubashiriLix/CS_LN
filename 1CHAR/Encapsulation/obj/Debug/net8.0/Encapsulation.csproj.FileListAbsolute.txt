@@ -1,0 +1,14 @@
+/home/orangepi/LN/CS/1CHAR/Encapsulation/bin/Debug/net8.0/Encapsulation
+/home/orangepi/LN/CS/1CHAR/Encapsulation/bin/Debug/net8.0/Encapsulation.deps.json
+/home/orangepi/LN/CS/1CHAR/Encapsulation/bin/Debug/net8.0/Encapsulation.runtimeconfig.json
+/home/orangepi/LN/CS/1CHAR/Encapsulation/bin/Debug/net8.0/Encapsulation.dll
+/home/orangepi/LN/CS/1CHAR/Encapsulation/bin/Debug/net8.0/Encapsulation.pdb
+/home/orangepi/LN/CS/1CHAR/Encapsulation/obj/Debug/net8.0/Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/home/orangepi/LN/CS/1CHAR/Encapsulation/obj/Debug/net8.0/Encapsulation.AssemblyInfoInputs.cache
+/home/orangepi/LN/CS/1CHAR/Encapsulation/obj/Debug/net8.0/Encapsulation.AssemblyInfo.cs
+/home/orangepi/LN/CS/1CHAR/Encapsulation/obj/Debug/net8.0/Encapsulation.csproj.CoreCompileInputs.cache
+/home/orangepi/LN/CS/1CHAR/Encapsulation/obj/Debug/net8.0/Encapsulation.dll
+/home/orangepi/LN/CS/1CHAR/Encapsulation/obj/Debug/net8.0/refint/Encapsulation.dll
+/home/orangepi/LN/CS/1CHAR/Encapsulation/obj/Debug/net8.0/Encapsulation.pdb
+/home/orangepi/LN/CS/1CHAR/Encapsulation/obj/Debug/net8.0/Encapsulation.genruntimeconfig.cache
+/home/orangepi/LN/CS/1CHAR/Encapsulation/obj/Debug/net8.0/ref/Encapsulation.dll

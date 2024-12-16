@@ -1,0 +1,14 @@
+/home/orangepi/LN/CS/0CHAR/SizeDataType/obj/Debug/net8.0/SizeDataType.GeneratedMSBuildEditorConfig.editorconfig
+/home/orangepi/LN/CS/0CHAR/SizeDataType/obj/Debug/net8.0/SizeDataType.AssemblyInfoInputs.cache
+/home/orangepi/LN/CS/0CHAR/SizeDataType/obj/Debug/net8.0/SizeDataType.AssemblyInfo.cs
+/home/orangepi/LN/CS/0CHAR/SizeDataType/obj/Debug/net8.0/SizeDataType.csproj.CoreCompileInputs.cache
+/home/orangepi/LN/CS/0CHAR/SizeDataType/bin/Debug/net8.0/SizeDataType
+/home/orangepi/LN/CS/0CHAR/SizeDataType/bin/Debug/net8.0/SizeDataType.deps.json
+/home/orangepi/LN/CS/0CHAR/SizeDataType/bin/Debug/net8.0/SizeDataType.runtimeconfig.json
+/home/orangepi/LN/CS/0CHAR/SizeDataType/bin/Debug/net8.0/SizeDataType.dll
+/home/orangepi/LN/CS/0CHAR/SizeDataType/bin/Debug/net8.0/SizeDataType.pdb
+/home/orangepi/LN/CS/0CHAR/SizeDataType/obj/Debug/net8.0/SizeDataType.dll
+/home/orangepi/LN/CS/0CHAR/SizeDataType/obj/Debug/net8.0/refint/SizeDataType.dll
+/home/orangepi/LN/CS/0CHAR/SizeDataType/obj/Debug/net8.0/SizeDataType.pdb
+/home/orangepi/LN/CS/0CHAR/SizeDataType/obj/Debug/net8.0/SizeDataType.genruntimeconfig.cache
+/home/orangepi/LN/CS/0CHAR/SizeDataType/obj/Debug/net8.0/ref/SizeDataType.dll

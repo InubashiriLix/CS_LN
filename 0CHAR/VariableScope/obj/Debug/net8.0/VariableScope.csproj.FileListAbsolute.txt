@@ -1,0 +1,14 @@
+/home/orangepi/LN/CS/0CHAR/VariableScope/obj/Debug/net8.0/VariableScope.GeneratedMSBuildEditorConfig.editorconfig
+/home/orangepi/LN/CS/0CHAR/VariableScope/obj/Debug/net8.0/VariableScope.AssemblyInfoInputs.cache
+/home/orangepi/LN/CS/0CHAR/VariableScope/obj/Debug/net8.0/VariableScope.AssemblyInfo.cs
+/home/orangepi/LN/CS/0CHAR/VariableScope/obj/Debug/net8.0/VariableScope.csproj.CoreCompileInputs.cache
+/home/orangepi/LN/CS/0CHAR/VariableScope/bin/Debug/net8.0/VariableScope
+/home/orangepi/LN/CS/0CHAR/VariableScope/bin/Debug/net8.0/VariableScope.deps.json
+/home/orangepi/LN/CS/0CHAR/VariableScope/bin/Debug/net8.0/VariableScope.runtimeconfig.json
+/home/orangepi/LN/CS/0CHAR/VariableScope/bin/Debug/net8.0/VariableScope.dll
+/home/orangepi/LN/CS/0CHAR/VariableScope/bin/Debug/net8.0/VariableScope.pdb
+/home/orangepi/LN/CS/0CHAR/VariableScope/obj/Debug/net8.0/VariableScope.dll
+/home/orangepi/LN/CS/0CHAR/VariableScope/obj/Debug/net8.0/refint/VariableScope.dll
+/home/orangepi/LN/CS/0CHAR/VariableScope/obj/Debug/net8.0/VariableScope.pdb
+/home/orangepi/LN/CS/0CHAR/VariableScope/obj/Debug/net8.0/VariableScope.genruntimeconfig.cache
+/home/orangepi/LN/CS/0CHAR/VariableScope/obj/Debug/net8.0/ref/VariableScope.dll

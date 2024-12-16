@@ -1,0 +1,14 @@
+/home/orangepi/LN/CS/1CHAR/String/bin/Debug/net8.0/String
+/home/orangepi/LN/CS/1CHAR/String/bin/Debug/net8.0/String.deps.json
+/home/orangepi/LN/CS/1CHAR/String/bin/Debug/net8.0/String.runtimeconfig.json
+/home/orangepi/LN/CS/1CHAR/String/bin/Debug/net8.0/String.dll
+/home/orangepi/LN/CS/1CHAR/String/bin/Debug/net8.0/String.pdb
+/home/orangepi/LN/CS/1CHAR/String/obj/Debug/net8.0/String.GeneratedMSBuildEditorConfig.editorconfig
+/home/orangepi/LN/CS/1CHAR/String/obj/Debug/net8.0/String.AssemblyInfoInputs.cache
+/home/orangepi/LN/CS/1CHAR/String/obj/Debug/net8.0/String.AssemblyInfo.cs
+/home/orangepi/LN/CS/1CHAR/String/obj/Debug/net8.0/String.csproj.CoreCompileInputs.cache
+/home/orangepi/LN/CS/1CHAR/String/obj/Debug/net8.0/String.dll
+/home/orangepi/LN/CS/1CHAR/String/obj/Debug/net8.0/refint/String.dll
+/home/orangepi/LN/CS/1CHAR/String/obj/Debug/net8.0/String.pdb
+/home/orangepi/LN/CS/1CHAR/String/obj/Debug/net8.0/String.genruntimeconfig.cache
+/home/orangepi/LN/CS/1CHAR/String/obj/Debug/net8.0/ref/String.dll

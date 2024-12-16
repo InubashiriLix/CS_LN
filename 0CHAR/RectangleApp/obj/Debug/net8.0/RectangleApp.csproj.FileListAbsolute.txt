@@ -1,0 +1,14 @@
+/home/orangepi/LN/CS/0CHAR/RectangleApp/obj/Debug/net8.0/RectangleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/orangepi/LN/CS/0CHAR/RectangleApp/obj/Debug/net8.0/RectangleApp.AssemblyInfoInputs.cache
+/home/orangepi/LN/CS/0CHAR/RectangleApp/obj/Debug/net8.0/RectangleApp.AssemblyInfo.cs
+/home/orangepi/LN/CS/0CHAR/RectangleApp/obj/Debug/net8.0/RectangleApp.csproj.CoreCompileInputs.cache
+/home/orangepi/LN/CS/0CHAR/RectangleApp/bin/Debug/net8.0/RectangleApp
+/home/orangepi/LN/CS/0CHAR/RectangleApp/bin/Debug/net8.0/RectangleApp.deps.json
+/home/orangepi/LN/CS/0CHAR/RectangleApp/bin/Debug/net8.0/RectangleApp.runtimeconfig.json
+/home/orangepi/LN/CS/0CHAR/RectangleApp/bin/Debug/net8.0/RectangleApp.dll
+/home/orangepi/LN/CS/0CHAR/RectangleApp/bin/Debug/net8.0/RectangleApp.pdb
+/home/orangepi/LN/CS/0CHAR/RectangleApp/obj/Debug/net8.0/RectangleApp.dll
+/home/orangepi/LN/CS/0CHAR/RectangleApp/obj/Debug/net8.0/refint/RectangleApp.dll
+/home/orangepi/LN/CS/0CHAR/RectangleApp/obj/Debug/net8.0/RectangleApp.pdb
+/home/orangepi/LN/CS/0CHAR/RectangleApp/obj/Debug/net8.0/RectangleApp.genruntimeconfig.cache
+/home/orangepi/LN/CS/0CHAR/RectangleApp/obj/Debug/net8.0/ref/RectangleApp.dll

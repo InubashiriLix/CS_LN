@@ -1,0 +1,14 @@
+/home/orangepi/LN/CS/0CHAR/Const/obj/Debug/net8.0/Const.GeneratedMSBuildEditorConfig.editorconfig
+/home/orangepi/LN/CS/0CHAR/Const/obj/Debug/net8.0/Const.AssemblyInfoInputs.cache
+/home/orangepi/LN/CS/0CHAR/Const/obj/Debug/net8.0/Const.AssemblyInfo.cs
+/home/orangepi/LN/CS/0CHAR/Const/obj/Debug/net8.0/Const.csproj.CoreCompileInputs.cache
+/home/orangepi/LN/CS/0CHAR/Const/bin/Debug/net8.0/Const
+/home/orangepi/LN/CS/0CHAR/Const/bin/Debug/net8.0/Const.deps.json
+/home/orangepi/LN/CS/0CHAR/Const/bin/Debug/net8.0/Const.runtimeconfig.json
+/home/orangepi/LN/CS/0CHAR/Const/bin/Debug/net8.0/Const.dll
+/home/orangepi/LN/CS/0CHAR/Const/bin/Debug/net8.0/Const.pdb
+/home/orangepi/LN/CS/0CHAR/Const/obj/Debug/net8.0/Const.dll
+/home/orangepi/LN/CS/0CHAR/Const/obj/Debug/net8.0/refint/Const.dll
+/home/orangepi/LN/CS/0CHAR/Const/obj/Debug/net8.0/Const.pdb
+/home/orangepi/LN/CS/0CHAR/Const/obj/Debug/net8.0/Const.genruntimeconfig.cache
+/home/orangepi/LN/CS/0CHAR/Const/obj/Debug/net8.0/ref/Const.dll

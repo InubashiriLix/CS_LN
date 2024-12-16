@@ -1,0 +1,14 @@
+/home/orangepi/LN/CS/0CHAR/TypeConvert/bin/Debug/net8.0/TypeConvert
+/home/orangepi/LN/CS/0CHAR/TypeConvert/bin/Debug/net8.0/TypeConvert.deps.json
+/home/orangepi/LN/CS/0CHAR/TypeConvert/bin/Debug/net8.0/TypeConvert.runtimeconfig.json
+/home/orangepi/LN/CS/0CHAR/TypeConvert/bin/Debug/net8.0/TypeConvert.dll
+/home/orangepi/LN/CS/0CHAR/TypeConvert/bin/Debug/net8.0/TypeConvert.pdb
+/home/orangepi/LN/CS/0CHAR/TypeConvert/obj/Debug/net8.0/TypeConvert.GeneratedMSBuildEditorConfig.editorconfig
+/home/orangepi/LN/CS/0CHAR/TypeConvert/obj/Debug/net8.0/TypeConvert.AssemblyInfoInputs.cache
+/home/orangepi/LN/CS/0CHAR/TypeConvert/obj/Debug/net8.0/TypeConvert.AssemblyInfo.cs
+/home/orangepi/LN/CS/0CHAR/TypeConvert/obj/Debug/net8.0/TypeConvert.csproj.CoreCompileInputs.cache
+/home/orangepi/LN/CS/0CHAR/TypeConvert/obj/Debug/net8.0/TypeConvert.dll
+/home/orangepi/LN/CS/0CHAR/TypeConvert/obj/Debug/net8.0/refint/TypeConvert.dll
+/home/orangepi/LN/CS/0CHAR/TypeConvert/obj/Debug/net8.0/TypeConvert.pdb
+/home/orangepi/LN/CS/0CHAR/TypeConvert/obj/Debug/net8.0/TypeConvert.genruntimeconfig.cache
+/home/orangepi/LN/CS/0CHAR/TypeConvert/obj/Debug/net8.0/ref/TypeConvert.dll

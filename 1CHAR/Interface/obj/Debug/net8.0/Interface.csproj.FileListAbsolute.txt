@@ -1,0 +1,14 @@
+/home/orangepi/LN/CS/1CHAR/Interface/bin/Debug/net8.0/Interface
+/home/orangepi/LN/CS/1CHAR/Interface/bin/Debug/net8.0/Interface.deps.json
+/home/orangepi/LN/CS/1CHAR/Interface/bin/Debug/net8.0/Interface.runtimeconfig.json
+/home/orangepi/LN/CS/1CHAR/Interface/bin/Debug/net8.0/Interface.dll
+/home/orangepi/LN/CS/1CHAR/Interface/bin/Debug/net8.0/Interface.pdb
+/home/orangepi/LN/CS/1CHAR/Interface/obj/Debug/net8.0/Interface.GeneratedMSBuildEditorConfig.editorconfig
+/home/orangepi/LN/CS/1CHAR/Interface/obj/Debug/net8.0/Interface.AssemblyInfoInputs.cache
+/home/orangepi/LN/CS/1CHAR/Interface/obj/Debug/net8.0/Interface.AssemblyInfo.cs
+/home/orangepi/LN/CS/1CHAR/Interface/obj/Debug/net8.0/Interface.csproj.CoreCompileInputs.cache
+/home/orangepi/LN/CS/1CHAR/Interface/obj/Debug/net8.0/Interface.dll
+/home/orangepi/LN/CS/1CHAR/Interface/obj/Debug/net8.0/refint/Interface.dll
+/home/orangepi/LN/CS/1CHAR/Interface/obj/Debug/net8.0/Interface.pdb
+/home/orangepi/LN/CS/1CHAR/Interface/obj/Debug/net8.0/Interface.genruntimeconfig.cache
+/home/orangepi/LN/CS/1CHAR/Interface/obj/Debug/net8.0/ref/Interface.dll
